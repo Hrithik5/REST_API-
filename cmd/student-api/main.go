@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Welcome to Students-Api")
+	fmt.Println("Welcome to Students-Rest-Api")
 }
